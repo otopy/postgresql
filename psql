@@ -1,0 +1,10 @@
+postgres=# select pg_backend_pid(); - пид запущенной сессии
+postgres=# select inet_client_addr(); - адрес клиента внешка
+postgres=# select inet_server_addr(); - адресс сервера
+postgres=# select inet_server_port(); - порт сервера
+postgres=# select inet_client_port(); - порт клиента
+postgres=#
+postgres=#
+postgres=#
+postgres=#
+postgres=#
